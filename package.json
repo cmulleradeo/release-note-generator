@@ -20,7 +20,7 @@
   },
   "publishConfig": {
     "access": "restricted",
-    "registry": "https://adeo.jfrog.io/adeo/api/npm/npm/"
+    "registry": "http://localhost:4873/"
   },
   "devDependencies": {
     "semantic-release": "^17.4.7"
