@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/cmulleradeo/release-note-generator/compare/v1.0.0...v1.1.0) (2021-09-07)
+
+
+### Features
+
+* **v2:** rewrite main method ([353d63e](https://github.com/cmulleradeo/release-note-generator/commit/353d63e7beecd6f8be693a03f2cb34c6c2df2a3c))
+
 ## 1.0.0 (2021-09-07)
 
 
