@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/cmulleradeo/release-note-generator/compare/v2.0.0...v2.0.1) (2021-09-07)
+
+
+### Bug Fixes
+
+* update release process ([a342d81](https://github.com/cmulleradeo/release-note-generator/commit/a342d81ab1dc3bbb780c4f14efbf7d7c747cfdbe))
+
 ## [2.0.0](https://github.com/cmulleradeo/release-note-generator/compare/v1.1.0...v2.0.0) (2021-09-07)
 
 
