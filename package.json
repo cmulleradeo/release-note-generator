@@ -1,5 +1,5 @@
 {
-  "name": "release-note-generator",
+  "name": "release-note-generator-cmr-dev",
   "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
@@ -19,8 +19,7 @@
     "url": "https://github.com/cmulleradeo/release-note-generator.git"
   },
   "publishConfig": {
-    "access": "restricted",
-    "registry": "http://localhost:4873/"
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "semantic-release": "^17.4.7"
