@@ -1,8 +1,10 @@
 import Counter from './Counter'
 
+const NB_COUNTER = 5
+
 const main = () => {
     const counters = []
-    for (let index = 0; index < 5; index++) {
+    for (let index = 0; index < NB_COUNTER; index++) {
         counters.push(new Counter());
     }
 
