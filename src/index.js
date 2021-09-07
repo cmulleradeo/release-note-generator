@@ -15,3 +15,5 @@ const main = () => {
         console.log(`Counter ${i + 1} has a value of ${counters[i].get()}`)
     }
 }
+
+main()
