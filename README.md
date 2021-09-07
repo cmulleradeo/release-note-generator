@@ -22,3 +22,5 @@ Reuse github action worfklow and release.config.js.
 - [Conventional commit](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 - [Semantic release](https://github.com/semantic-release/semantic-release)
 - [Commitlint](https://commitlint.js.org/#/guides-local-setup)
+
+test
