@@ -1,3 +1,14 @@
+## [2.0.0](https://github.com/cmulleradeo/release-note-generator/compare/v1.1.0...v2.0.0) (2021-09-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for Node 6
+
+### Code Refactoring
+
+* drop support for Node 6 ([c4bf7a2](https://github.com/cmulleradeo/release-note-generator/commit/c4bf7a23b64ab568131fed81272bf9b874acbaec))
+
 ## [1.1.0](https://github.com/cmulleradeo/release-note-generator/compare/v1.0.0...v1.1.0) (2021-09-07)
 
 
