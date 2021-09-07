@@ -1,18 +1,28 @@
 {
   "name": "release-note-generator",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
+  "release": {
+    "branches": ["main"]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "changelog": "conventional-changelog -i CHANGELOG.md -s -r 0"
+    "changelog": "conventional-changelog -i CHANGELOG.md -s -r 0",
+    "release": "semantic-release --no-ci --dry-run",
+    "semantic-release": "semantic-release"
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmulleradeo/release-note-generator.git"
+  },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://adeo.jfrog.io/adeo/api/npm/npm/"
+  },
   "devDependencies": {
-    "@semantic-release/commit-analyzer": "^8.0.1",
-    "@semantic-release/release-notes-generator": "^9.0.3",
-    "conventional-changelog-cli": "^2.1.1",
     "semantic-release": "^17.4.7"
   }
 }
