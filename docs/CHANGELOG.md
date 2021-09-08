@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/cmulleradeo/release-note-generator/compare/v2.0.1...v2.1.0) (2021-09-08)
+
+
+### Features
+
+* merge PR ([b97d531](https://github.com/cmulleradeo/release-note-generator/commit/b97d53118c0ac0d148aecbe43be04e0d9881d467))
+
 ### [2.0.1](https://github.com/cmulleradeo/release-note-generator/compare/v2.0.0...v2.0.1) (2021-09-07)
 
 
